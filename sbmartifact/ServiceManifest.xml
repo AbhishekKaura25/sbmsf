@@ -25,7 +25,7 @@
       <ExeHost>
         <Program>jre1.8.0_131\bin\java.exe</Program>
         <Arguments>-jar ..\..\sbmartifact.jar</Arguments>
-        <WorkingFolder>CodeBase</WorkingFolder>
+        <WorkingFolder>CodePackage</WorkingFolder>
         <!-- Uncomment to log console output (both stdout and stderr) to one of the
              service's working directories. -->
         <!-- <ConsoleRedirection FileRetentionCount="5" FileMaxSizeInKb="2048"/> -->
